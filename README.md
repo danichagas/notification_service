@@ -35,7 +35,7 @@ Você não precisa ter o Java, Maven ou qualquer banco de dados instalado na sua
 
 1. Clone o repositório:
 ```bash
-git clone [https://github.com/SEU_USUARIO/omni_notify_api.git](https://github.com/SEU_USUARIO/omni_notify_api.git)
+git clone https://github.com/danichagas/omni_notify_api.git
 cd omni_notify_api
 ```
 
